@@ -1,0 +1,11 @@
+{
+  "name": "hello_world_wasm",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/hello_world_wasm.js",
+  "files": [
+    "dist/hello_world_wasm.js"
+  ],
+  "author": "macoshita <macoshita@gmail.com>",
+  "license": "MIT"
+}

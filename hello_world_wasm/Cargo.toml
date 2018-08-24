@@ -1,0 +1,10 @@
+[package]
+name = "hello_world_wasm"
+version = "0.1.0"
+authors = ["macoshita <macoshita@gmail.com>"]
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+wasm-bindgen = "0.2"
